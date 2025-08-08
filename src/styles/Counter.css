@@ -1,0 +1,44 @@
+.counter {
+
+    background-color: white;
+    width: 415px;
+    height: 165px;
+    border-radius: 8px;
+    padding: 20px;
+    padding-bottom: 15px;
+
+}
+
+.count {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 58%;
+    margin-left: 80px;
+}
+
+.op {
+    border-radius: 49%;
+    background-color: #fff;
+    color: #2b7efe;
+    border-color: #2b7efe;
+    height: 50px;
+    width: 50px;
+}
+
+.display {
+    color: #fff;
+}
+
+
+.sheadings {
+    color: black;
+    margin: 0px;
+    opacity: 73%;
+
+}
+
+.atl {
+    background-color: #2b7efe;
+    width: 100%;
+}

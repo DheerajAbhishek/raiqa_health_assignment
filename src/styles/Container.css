@@ -1,0 +1,10 @@
+h2 {
+    color: black;
+}
+
+.container {
+    display: flex;
+    height: 245px;
+    flex-direction: column;
+    justify-content: space-between;
+}

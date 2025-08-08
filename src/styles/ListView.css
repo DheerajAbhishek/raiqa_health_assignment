@@ -1,0 +1,49 @@
+.display {
+    background: white;
+    margin-top: 23px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+h1 {
+    color: black;
+}
+
+.nums {
+    background-color: aliceblue;
+    border-radius: 3px;
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 7px;
+}
+
+.del {
+    background-color: white;
+    color: black;
+    opacity: 70%;
+    padding: 0px;
+}
+
+.reset {
+    color: red;
+    border-color: red;
+    background: aliceblue;
+    margin-right: 3px;
+    padding: 7px;
+}
+
+.sort {
+    background-color: #2b7efe;
+    padding: 7px;
+
+}
+
+.highLow {
+    color: black;
+    opacity: 70%;
+
+}
