@@ -40,7 +40,7 @@ export default function Display({ receiveData, reset, sort, deleteItem, order })
                     </div>
                 </>
             ) : (
-                <p></p>
+                <p style={{ marginTop: "30px", color: "black" }}>No numbers added yet. Use the counter above to add some!</p>
             )}
         </div>
     );
