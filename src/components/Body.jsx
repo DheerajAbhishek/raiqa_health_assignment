@@ -1,5 +1,5 @@
 
-import Container from './container.jsx';
+import Container from './Container.jsx';
 
 import '../styles/Body.css';
 export default function Body() {
